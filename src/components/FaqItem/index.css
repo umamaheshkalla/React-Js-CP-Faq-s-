@@ -1,0 +1,38 @@
+.card-description-container {
+  border: solid 1px #d7dae6;
+  height: 14vh;
+  width: 40vw;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  margin-left: 60px;
+}
+.question-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.question-heading {
+  font-family: 'roboto';
+  font-size: 15px;
+  font-weight: bold;
+  color: #52606d;
+  margin-left: 18px;
+  margin-top: 20px;
+}
+.hr-line {
+  font-size: 10px;
+  border: 1px solid #e4e7eb;
+  width: 38vw;
+}
+.answer-text {
+  font-family: 'roboto';
+  font-size: 10px;
+  font-weight: 500;
+  color: #9aa5b1;
+  margin-left: 18px;
+}
+.button {
+  background-color: transparent;
+  border: 0;
+  margin-right: 18px;
+}
